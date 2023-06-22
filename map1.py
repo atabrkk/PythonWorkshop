@@ -1,4 +1,3 @@
-# 21.06.23
 # Kullanıcının girdiği üsse göre listedeki sayıların üssünün hesaplanıp yeni bir listeye aktarılması.
 # map ve lambda fonksiyon kullanıldı.
 
